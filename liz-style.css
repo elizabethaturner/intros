@@ -26,3 +26,8 @@ i{color: pink;
   content: "";
   clear: both;
   display: table;
+.link {Color: black;
+font-size: 40px;
+font-family: tahoma;
+padding-top: 20px;
+}
